@@ -1,2 +1,3 @@
 # Stats506_public
-Week 3 Activity Part 1
+# About: Repository:https://github.com/jbhender/Stats506_F20/tree/master/activities/week3
+# Course Website:https://jbhender.github.io/Stats506/F20/

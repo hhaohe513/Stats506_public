@@ -11,6 +11,9 @@
 
 ## Weeks 4-6:
 ### Week 4: Practice dplyr and ggplot in 'tidyverse' package
+### Week 5: Finish part 2 of week 4
+![](./w4_p2_q1_plot.png)
+![](./w4_p2_q2_plot.png)
 
 ## Group members link:
 ### Hao:https://github.com/hhaohe513/Stats506_public

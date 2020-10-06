@@ -14,6 +14,8 @@
 ### Week 5: Finish part 2 of week 4
 <img src="../activities/week4/w4_p2_q1_plot.png" height="50%" width="50%">
 <img src="../activities/week4/w4_p2_q2_plot.png" height="50%" width="50%">
+
+
 ## Group members link:
 ### Hao:https://github.com/hhaohe513/Stats506_public
 ### Hongfan:https://github.com/HongfanChen/Stats506_public
